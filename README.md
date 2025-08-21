@@ -1,6 +1,8 @@
 # Json.andtheWebProject
 This project integrates JSON and web development concepts
 
+ https://keilaglez-tech.github.io/Json.andtheWebProject.io/
+ 
 1.Prepare the JSON File:
 Download and unzip the cit5students.zip file from the course website.
 Locate the cit5students.json file, which contains the student data array.
